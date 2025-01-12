@@ -20,6 +20,10 @@ In today’s competitive business environment, retaining customers is crucial fo
 ### 4. Dashboard Creation 📈
 - Built an interactive Power BI dashboard to visualize metrics like total customers, churn rate, and new joiners.
 - Highlighted demographic, geographic, payment, and service-related factors impacting churn.
+- Model Relationship Veiw 
+![image](https://github.com/user-attachments/assets/a6c844df-93d3-4d4d-99ba-88a6d52d2c0b)
+
+
 
 ## Project Goals 🎯
 - Establish an end-to-end ETL process for customer data.

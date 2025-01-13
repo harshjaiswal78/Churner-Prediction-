@@ -18,4 +18,4 @@ Count(State) * 1.0 / (Select Count(*) from stg_Churn)  as Percentage
 FROM stg_Churn
 GROUP BY State
 ORDER BY Percentage DESC;
-
+ 

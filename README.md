@@ -22,6 +22,7 @@ In today’s competitive business environment, retaining customers is crucial fo
 - Highlighted demographic, geographic, payment, and service-related factors impacting churn.
 - Model Relationship Veiw 
 ![image](https://github.com/user-attachments/assets/a6c844df-93d3-4d4d-99ba-88a6d52d2c0b)
+link to the dashboard : [Power BI Dashboard](https://app.powerbi.com/links/d6tnABSX3k?ctid=1b305a80-f34a-496b-b8a7-8691fb1ec04b&pbi_source=linkShare)
 
 
 

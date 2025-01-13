@@ -32,4 +32,4 @@ SELECT
     ISNULL(Churn_Category, 'Others') AS Churn_Category,
     ISNULL(Churn_Reason , 'Others') AS Churn_Reason
 INTO prod_Churn
-FROM stg_Churn;
+FROM stg_Churn; 

@@ -32,3 +32,4 @@ CREATE TABLE stg_Churn (
     Churn_Category NVARCHAR(50),
     Churn_Reason NVARCHAR(255)
 );
+ 

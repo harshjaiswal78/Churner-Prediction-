@@ -22,6 +22,17 @@ In today’s competitive business environment, retaining customers is crucial fo
 - Highlighted demographic, geographic, payment, and service-related factors impacting churn.
 - Model Relationship Veiw 
 ![image](https://github.com/user-attachments/assets/a6c844df-93d3-4d4d-99ba-88a6d52d2c0b)
+
+### Screenshots of the Dashboard
+- Summary
+<img width="1222" alt="Screenshot 2025-02-23 at 6 54 29 PM" src="https://github.com/user-attachments/assets/35ab17a7-b15f-4558-b5f1-8cb27ec97886" />
+
+- Churner Prediction
+<img width="1222" alt="Screenshot 2025-02-23 at 6 55 20 PM" src="https://github.com/user-attachments/assets/afcda833-1ae1-4c15-9827-68fc0d484bf3" />
+
+
+
+
 link to the dashboard : [Power BI Dashboard](https://app.powerbi.com/links/d6tnABSX3k?ctid=1b305a80-f34a-496b-b8a7-8691fb1ec04b&pbi_source=linkShare)
 
 
